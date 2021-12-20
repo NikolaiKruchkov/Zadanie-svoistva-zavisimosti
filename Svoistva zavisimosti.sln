@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svoistva zavisimosti", "Svoistva zavisimosti\Svoistva zavisimosti.csproj", "{186C00C1-0E53-431D-BECF-4814B0F05B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186C00C1-0E53-431D-BECF-4814B0F05B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186C00C1-0E53-431D-BECF-4814B0F05B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186C00C1-0E53-431D-BECF-4814B0F05B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186C00C1-0E53-431D-BECF-4814B0F05B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C335FE9E-423B-4E55-9763-72981F6C6BFC}
+	EndGlobalSection
+EndGlobal
